@@ -10,7 +10,7 @@
 	</parent>
 	<groupId>com.hsob</groupId>
 	<artifactId>documentdb</artifactId>
-	<version>1.0.1</version>
+	<version>1.0.2</version>
 	<name>documentdb</name>
 	<description>Maven dependency Java project for managing and versioning Mysql database entities</description>
 	<distributionManagement>
